@@ -32,10 +32,10 @@ This project predicts whether a bank customer will churn using demographic and t
 - Decision Tree offers high recall, suitable if false negatives are costlier.
 
 ## Files
-- `notebooks/Project_Code_Aml.ipynb`: Full modeling code
-- `data/Churn_Modelling.csv`: Dataset
-- `reports/Project_Report_Nipun_Chauhan.pdf`: Full report
-- `reports/Presentation_AML_Project.pdf`: Presentation slides
+- `Project_Code_Aml.ipynb`: Full modeling code
+- `Churn_Modelling.csv`: Dataset
+- `Project_Report_Nipun_Chauhan.pdf`: Full report
+- `Presentation_AML_Project.pdf`: Presentation slides
 
 ## Future Work
 - Hyperparameter tuning for ANN
